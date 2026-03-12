@@ -1,0 +1,13 @@
+homework role
+
+vishnu: create a html page containing your name on the left side with date below the name. in the middle give a heading as dhoni. draw a big line below the name date and title. add a picture of dhoni on below the line 
+and write some para about title. 
+
+abinaya: create a html page containing your name on the left side with date below the name. in the middle give title as virat. draw a big line below the name date and title. add a picture of title below the line 
+and write some para about the title. 
+
+monisha: create a html page containing your name on the left side with date below the name. in the middle give title as sahin tendulkat. draw a big line below the name date and title. add a picture of title below the line 
+and write some para about the title. 
+
+vinothini: create a html page containing your name on the left side with date below the name. in the middle give title as vijay. draw a big line below the name date and title. add a picture of title below the line 
+and write some para about the title. 
